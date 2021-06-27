@@ -10,7 +10,11 @@ https://github.com/danTaler/joke_program_challenge/releases/tag/0.1
 C:\> joke_program_challenge.exe
 ```
 
-
-
+## Technical Details:
+Program was written with .NET Version: 5.0.301
+If complied from source code, apply the following package:
+```
+dotnet add package Newtonsoft.Json
+```
 
 
