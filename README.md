@@ -17,4 +17,7 @@ If complied from source code, apply the following package:
 dotnet add package Newtonsoft.Json
 ```
 
+## Build tests:
+
+![Image of Yaktocat](https://github.com/danTaler/joke_program_challenge/blob/main/build_screenshot.png)
 
