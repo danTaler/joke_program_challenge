@@ -9,8 +9,10 @@ https://github.com/danTaler/joke_program_challenge/releases/tag/0.1
 ```bash
 C:\> joke_program_challenge.exe
 ```
-VirusTotal pass:
+VirusTotal URL:
 https://www.virustotal.com/gui/url/ba14c99e35e996a797e0c4cec5b8fce44d4c457ae1070a5eff78823640c101d2/detection
+VirusTotal binary:
+https://www.virustotal.com/gui/file/3a88a9616db934847d818ec3e625be5ab28fd437346f11018aedc046740f73b3/detection
 
 ![Image of p](https://github.com/danTaler/joke_program_challenge/blob/main/program-menu.png)
 
